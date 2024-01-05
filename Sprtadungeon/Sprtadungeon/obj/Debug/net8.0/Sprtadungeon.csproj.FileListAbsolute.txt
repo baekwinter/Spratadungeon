@@ -1,0 +1,14 @@
+D:\TeamSparta_Unity\Sprtadungeon\Sprtadungeon\bin\Debug\net8.0\Sprtadungeon.exe
+D:\TeamSparta_Unity\Sprtadungeon\Sprtadungeon\bin\Debug\net8.0\Sprtadungeon.deps.json
+D:\TeamSparta_Unity\Sprtadungeon\Sprtadungeon\bin\Debug\net8.0\Sprtadungeon.runtimeconfig.json
+D:\TeamSparta_Unity\Sprtadungeon\Sprtadungeon\bin\Debug\net8.0\Sprtadungeon.dll
+D:\TeamSparta_Unity\Sprtadungeon\Sprtadungeon\bin\Debug\net8.0\Sprtadungeon.pdb
+D:\TeamSparta_Unity\Sprtadungeon\Sprtadungeon\obj\Debug\net8.0\Sprtadungeon.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeamSparta_Unity\Sprtadungeon\Sprtadungeon\obj\Debug\net8.0\Sprtadungeon.AssemblyInfoInputs.cache
+D:\TeamSparta_Unity\Sprtadungeon\Sprtadungeon\obj\Debug\net8.0\Sprtadungeon.AssemblyInfo.cs
+D:\TeamSparta_Unity\Sprtadungeon\Sprtadungeon\obj\Debug\net8.0\Sprtadungeon.csproj.CoreCompileInputs.cache
+D:\TeamSparta_Unity\Sprtadungeon\Sprtadungeon\obj\Debug\net8.0\Sprtadungeon.dll
+D:\TeamSparta_Unity\Sprtadungeon\Sprtadungeon\obj\Debug\net8.0\refint\Sprtadungeon.dll
+D:\TeamSparta_Unity\Sprtadungeon\Sprtadungeon\obj\Debug\net8.0\Sprtadungeon.pdb
+D:\TeamSparta_Unity\Sprtadungeon\Sprtadungeon\obj\Debug\net8.0\Sprtadungeon.genruntimeconfig.cache
+D:\TeamSparta_Unity\Sprtadungeon\Sprtadungeon\obj\Debug\net8.0\ref\Sprtadungeon.dll
